@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SamplesResources/Scenes/0-Main.unity
     guid: a09cb257d566c489595b16ab37547666
-  m_configObjects: {}
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f4e1460cd4d7c6147a270e78124b5dbd,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: badef940fcd0cdc47af8a798e15183be,
+      type: 2}
